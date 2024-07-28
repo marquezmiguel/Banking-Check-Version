@@ -1,0 +1,9 @@
+{
+    "version": "1.2.2",
+    "news": [
+        "Added version check feature.",
+        "Optimized code structure.",
+        "Fixed bug in transaction handling.",
+        "Improved UI responsiveness."
+    ]
+}
