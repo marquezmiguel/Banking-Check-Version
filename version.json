@@ -3,6 +3,7 @@
     "news": [
         "New: Added version check",
         "New: Added Loans Feature",
+        "New: Added Ped on Banks",
         "Fix: Data load optimization"
     ]
 }
