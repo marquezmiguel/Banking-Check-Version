@@ -1,6 +1,6 @@
 {
     "version": "1.2.3",
     "news": [
-        "Fix: Fix time in DaysBetweenDuesPayments"
+        "Fix: Fixed an issue that caused the time between dues payments to be incorrect"
     ]
 }
