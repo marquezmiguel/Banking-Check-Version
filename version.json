@@ -1,9 +1,6 @@
 {
-    "version": "1.2.2",
+    "version": "1.2.3",
     "news": [
-        "New: Added version check",
-        "New: Added Loans Feature",
-        "New: Added Ped on Banks",
-        "Fix: Data load optimization"
+        "Fix: Fix time in DaysBetweenDuesPayments"
     ]
 }
